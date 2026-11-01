@@ -1,0 +1,16 @@
+{
+ "versionCode": 19,
+ "versionName": "3.18-nube",
+ "notas": [
+  "Free Fire ordenado como la simulación: arriba FREE FIRE + KOBUX DIAMANTES con Ventas, Cobrado y Ganancia, y las pestañas abajo",
+  "Tablet: Cliente con teclado numérico, paquetes en 3×2 llenando el espacio y a la derecha Método, Fondo y Cobrar/Pagar",
+  "Celular: una sola columna, paquetes en 2 columnas y COBRAR + PAGAR fijos abajo",
+  "Letra más chica y sin agrandarse con la letra del sistema",
+  "En Free Fire ya no salen Conectado, señal ni saldo arriba (en tablet tampoco el título ni la caja)",
+  "Con teclado físico se esconde el teclado numérico de la pantalla",
+  "El firmware no cambia (copia de la v3.17-nube)"
+ ],
+ "ino": false,
+ "apk": "RecargaGuateNUBE.apk",
+ "fecha": "01/11/2026 09:12"
+}
