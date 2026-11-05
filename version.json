@@ -1,0 +1,12 @@
+{
+ "versionCode": 30,
+ "versionName": "3.29-nube",
+ "notas": [
+  "El corte de caja resta los depósitos a la tarjeta de hoy",
+  "Nueva línea \"Depósitos a la tarjeta de hoy\" en el resumen del corte",
+  "El firmware no cambia (copia de la v3.28)"
+ ],
+ "ino": false,
+ "apk": "RecargaGuateNUBE.apk",
+ "fecha": "05/11/2026 15:22"
+}
