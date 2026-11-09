@@ -1,0 +1,13 @@
+{
+ "versionCode": 37,
+ "versionName": "3.36-nube",
+ "notas": [
+  "El Corte de caja de Free Fire abre con el Corte diario: aviso, lista de los últimos 7 días y resumen de la semana",
+  "Cada día muestra lo que debía haber, lo contado y si cuadró, faltó, sobró o no tiene corte",
+  "Al tocar un día salen sus movimientos y ventas",
+  "El firmware no cambia (copia de la v3.35)"
+ ],
+ "ino": false,
+ "apk": "RecargaGuateNUBE.apk",
+ "fecha": "08/11/2026 21:17"
+}
