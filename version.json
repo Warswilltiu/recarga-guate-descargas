@@ -1,0 +1,12 @@
+{
+ "versionCode": 46,
+ "versionName": "3.45-nube",
+ "notas": [
+  "El teclado del PIN se ve completo en el celular acostado (las teclas se ajustan al alto)",
+  "Botón Cancelar y tecla para borrar",
+  "La Pantalla Secundaria ya se actualiza sola, sin avisar a las tablets"
+ ],
+ "ino": false,
+ "apk": "RecargaGuateNUBE.apk",
+ "fecha": "20/11/2026 11:48"
+}
