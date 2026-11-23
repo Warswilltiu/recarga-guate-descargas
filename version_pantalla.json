@@ -1,0 +1,13 @@
+{
+ "versionCode": 54,
+ "versionName": "1.8",
+ "notas": [
+  "En Free Fire la tecla Esc (y atrás del teclado) ya no cierra la app",
+  "En el paso del ID, Esc regresa a los diamantes sin borrar el ID ni el nombre",
+  "En los diamantes o en ¡LISTO!, Esc limpia todo para el siguiente cliente",
+  "Firmware: copia de la v3.55 (no cambia)"
+ ],
+ "ino": false,
+ "apk": "PantallaSecundaria.apk",
+ "fecha": "23/11/2026 17:20"
+}
